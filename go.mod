@@ -1,4 +1,4 @@
-module github.com/soypat/go-presentx
+module github.com/Nerzal/go-presentx
 
 go 1.19
 
